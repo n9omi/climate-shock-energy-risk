@@ -1,0 +1,14 @@
+# data is downloaded on every run and never committed
+data/
+.env
+*.parquet
+*.pkl
+*.part
+# environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+# packaging by-products (pip install .)
+build/
+*.egg-info/

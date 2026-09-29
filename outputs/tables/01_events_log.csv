@@ -1,0 +1,3 @@
+hazard,source,source_type,data_through,events,rule
+hurricane,https://raw.githubusercontent.com/tidyverse/dplyr/main/data-raw/storms.csv,fallback,2024-11-18,19,"status HU, >= 64 kt, lat (25.5, 30.5), lon (-98.0, -86.0)"
+winter,bundled snapshot of NCEI events-US-1980-2024.csv,fallback,2024-01-14,12,"Winter Storm or Freeze, starting in months (11, 12, 1, 2, 3), merged within 7 days"

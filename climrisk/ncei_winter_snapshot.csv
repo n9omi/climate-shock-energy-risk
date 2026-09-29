@@ -1,0 +1,19 @@
+# Snapshot of the "Winter Storm" and "Freeze" rows (2007 onward) of NOAA NCEI's U.S. Billion-Dollar Weather and
+# Climate Disasters list (events-US-1980-2024.csv), retrieved 2026-09-28. Used ONLY when the official file cannot
+# be downloaded; pipeline/01_events.py logs which one it used. Source: https://www.ncei.noaa.gov/access/billions/
+Name,Disaster,Begin Date,End Date
+"California Freeze (January 2007)",Freeze,20070111,20070117
+"Spring Freeze (April 2007)",Freeze,20070404,20070410
+"Northeast Winter Storm (February 2010)",Winter Storm,20100209,20100211
+"Groundhog Day Blizzard (February 2011)",Winter Storm,20110201,20110203
+"Northeastern Winter Storm (October 2011)",Winter Storm,20111029,20111030
+"Midwest/Southeast/Northeast Winter Storm (January 2014)",Winter Storm,20140105,20140108
+"Central and Eastern Winter storm, Cold Wave (February 2015)",Winter Storm,20150214,20150220
+"Southeast Freeze (March 2017)",Freeze,20170314,20170316
+"Central and Eastern Winter Storm (January 2018)",Winter Storm,20180103,20180105
+"Northeast Winter Storm (March 2018)",Winter Storm,20180301,20180303
+"Northwest, Central, Eastern Winter Storm and Cold Wave (February 2021)",Winter Storm,20210210,20210219
+"Central and Eastern Winter Storm and Cold Wave (December 2022)",Winter Storm,20221221,20221226
+"Northeastern Winter Storm/Cold Wave (February 2023)",Winter Storm,20230202,20230205
+"Northwest Winter Storm (January 2024)",Winter Storm,20240112,20240114
+"Central, Southern, Northeastern Winter Storm and Cold Wave (January 2024)",Winter Storm,20240114,20240118

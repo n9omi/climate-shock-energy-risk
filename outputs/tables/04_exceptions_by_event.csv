@@ -1,0 +1,226 @@
+position,model,hazard,event,day0,exceptions,overlay_exceptions,worst_loss_vs_var
+Book,Historical sim,hurricane,Isaac 2012,2012-08-28,0,0,0.4342345170203206
+Book,Historical sim,hurricane,Harvey 2017,2017-08-25,0,0,0.7073600861796542
+Book,Historical sim,hurricane,Nate 2017,2017-10-09,0,0,0.27563375842063903
+Book,Historical sim,hurricane,Michael 2018,2018-10-09,0,0,0.8567144028154994
+Book,Historical sim,hurricane,Barry 2019,2019-07-15,0,0,0.22867129090258922
+Book,Historical sim,hurricane,Hanna 2020,2020-07-27,0,0,0.17834500818962154
+Book,Historical sim,hurricane,Laura 2020,2020-08-26,0,0,0.7494206848436388
+Book,Historical sim,hurricane,Sally 2020,2020-09-14,0,0,0.5419026797594855
+Book,Historical sim,hurricane,Delta 2020,2020-10-09,0,0,0.6462130624911439
+Book,Historical sim,hurricane,Zeta 2020,2020-10-28,0,0,0.1745686604346118
+Book,Historical sim,hurricane,Ida 2021,2021-08-30,0,0,0.05532107600657827
+Book,Historical sim,hurricane,Nicholas 2021,2021-09-14,0,0,0.11999998667858312
+Book,Historical sim,hurricane,Beryl 2024,2024-07-08,0,0,0.5760656606631813
+Book,Historical sim,hurricane,Francine 2024,2024-09-11,0,0,0.25921102810136626
+Book,Historical sim,winter,Winter storm Feb 2010,2010-02-09,0,0,0.19223741624241178
+Book,Historical sim,winter,Winter storm Feb 2011,2011-02-01,0,0,0.5111087549892752
+Book,Historical sim,winter,Winter storm Jan 2014,2014-01-06,1,1,1.0303186968784621
+Book,Historical sim,winter,Winter storm Feb 2015,2015-02-16,0,0,0.7073166357758062
+Book,Historical sim,winter,Freeze Mar 2017,2017-03-14,0,0,0.47680090745960574
+Book,Historical sim,winter,Winter storm Jan 2018,2018-01-03,3,3,3.16760768374419
+Book,Historical sim,winter,Winter storm Mar 2018,2018-03-01,0,0,0.19125341399610296
+Book,Historical sim,winter,Winter storm Feb 2021,2021-02-10,2,1,1.8138515996622144
+Book,Historical sim,winter,Winter storm Dec 2022,2022-12-21,1,0,1.363739750519236
+Book,Historical sim,winter,Winter storm Feb 2023,2023-02-02,0,0,0.7430696661522761
+Book,Historical sim,winter,Winter storm Jan 2024,2024-01-12,1,1,3.9345571037463403
+Book,Filtered HS,hurricane,Isaac 2012,2012-08-28,0,0,0.5743628711298643
+Book,Filtered HS,hurricane,Harvey 2017,2017-08-25,1,0,1.233087136201358
+Book,Filtered HS,hurricane,Nate 2017,2017-10-09,0,0,0.3780879370313932
+Book,Filtered HS,hurricane,Michael 2018,2018-10-09,1,0,1.3293691382159316
+Book,Filtered HS,hurricane,Barry 2019,2019-07-15,0,0,0.5483763246993006
+Book,Filtered HS,hurricane,Hanna 2020,2020-07-27,0,0,0.2514495833066891
+Book,Filtered HS,hurricane,Laura 2020,2020-08-26,1,1,1.4126412350156414
+Book,Filtered HS,hurricane,Sally 2020,2020-09-14,0,0,0.563391581868904
+Book,Filtered HS,hurricane,Delta 2020,2020-10-09,0,0,0.4392785151034648
+Book,Filtered HS,hurricane,Zeta 2020,2020-10-28,0,0,0.12818115343824418
+Book,Filtered HS,hurricane,Ida 2021,2021-08-30,0,0,0.18908317451432305
+Book,Filtered HS,hurricane,Nicholas 2021,2021-09-14,0,0,0.361119851799363
+Book,Filtered HS,hurricane,Beryl 2024,2024-07-08,0,0,0.7206765084140647
+Book,Filtered HS,hurricane,Francine 2024,2024-09-11,0,0,0.332687372689763
+Book,Filtered HS,winter,Winter storm Feb 2010,2010-02-09,0,0,0.32637248435533595
+Book,Filtered HS,winter,Winter storm Feb 2011,2011-02-01,0,0,0.7818515690145104
+Book,Filtered HS,winter,Winter storm Jan 2014,2014-01-06,1,1,1.483177616434434
+Book,Filtered HS,winter,Winter storm Feb 2015,2015-02-16,0,0,0.6049699923964704
+Book,Filtered HS,winter,Freeze Mar 2017,2017-03-14,0,0,0.4481619615713994
+Book,Filtered HS,winter,Winter storm Jan 2018,2018-01-03,0,0,0.8120188147635775
+Book,Filtered HS,winter,Winter storm Mar 2018,2018-03-01,0,0,0.12971117791345077
+Book,Filtered HS,winter,Winter storm Feb 2021,2021-02-10,0,0,0.4530207461194886
+Book,Filtered HS,winter,Winter storm Dec 2022,2022-12-21,1,0,1.021450213912866
+Book,Filtered HS,winter,Winter storm Feb 2023,2023-02-02,0,0,0.6832824293915606
+Book,Filtered HS,winter,Winter storm Jan 2024,2024-01-12,0,0,0.4115205080885267
+Book,GARCH-t,hurricane,Isaac 2012,2012-08-28,0,0,0.4940342004486907
+Book,GARCH-t,hurricane,Harvey 2017,2017-08-25,1,0,1.025895644806186
+Book,GARCH-t,hurricane,Nate 2017,2017-10-09,0,0,0.3696024651339414
+Book,GARCH-t,hurricane,Michael 2018,2018-10-09,1,0,1.1180175028660495
+Book,GARCH-t,hurricane,Barry 2019,2019-07-15,0,0,0.5420166315771692
+Book,GARCH-t,hurricane,Hanna 2020,2020-07-27,0,0,0.4294362066111968
+Book,GARCH-t,hurricane,Laura 2020,2020-08-26,1,1,2.3555928357736318
+Book,GARCH-t,hurricane,Sally 2020,2020-09-14,0,0,0.8319353125117074
+Book,GARCH-t,hurricane,Delta 2020,2020-10-09,0,0,0.5727242655179435
+Book,GARCH-t,hurricane,Zeta 2020,2020-10-28,0,0,0.3734475549009675
+Book,GARCH-t,hurricane,Ida 2021,2021-08-30,0,0,0.2155993019853117
+Book,GARCH-t,hurricane,Nicholas 2021,2021-09-14,0,0,0.4111301249625562
+Book,GARCH-t,hurricane,Beryl 2024,2024-07-08,0,0,0.8843175632401167
+Book,GARCH-t,hurricane,Francine 2024,2024-09-11,0,0,0.3041235105922405
+Book,GARCH-t,winter,Winter storm Feb 2010,2010-02-09,0,0,0.34675181563883944
+Book,GARCH-t,winter,Winter storm Feb 2011,2011-02-01,0,0,0.587500837629438
+Book,GARCH-t,winter,Winter storm Jan 2014,2014-01-06,1,1,1.024741500080653
+Book,GARCH-t,winter,Winter storm Feb 2015,2015-02-16,0,0,0.88780195630285
+Book,GARCH-t,winter,Freeze Mar 2017,2017-03-14,0,0,0.48864706529059215
+Book,GARCH-t,winter,Winter storm Jan 2018,2018-01-03,0,0,0.6843336373599241
+Book,GARCH-t,winter,Winter storm Mar 2018,2018-03-01,0,0,0.2893450169184333
+Book,GARCH-t,winter,Winter storm Feb 2021,2021-02-10,0,0,0.4410188209817238
+Book,GARCH-t,winter,Winter storm Dec 2022,2022-12-21,1,0,1.0244923174345797
+Book,GARCH-t,winter,Winter storm Feb 2023,2023-02-02,1,0,1.0018506048555067
+Book,GARCH-t,winter,Winter storm Jan 2024,2024-01-12,0,0,0.2539261128770054
+Long WTI $1mm,Historical sim,hurricane,Isaac 2012,2012-08-28,0,0,0.21017928986989445
+Long WTI $1mm,Historical sim,hurricane,Harvey 2017,2017-08-25,0,0,0.5739726505673546
+Long WTI $1mm,Historical sim,hurricane,Nate 2017,2017-10-09,0,0,0.484679211318314
+Long WTI $1mm,Historical sim,hurricane,Michael 2018,2018-10-09,0,0,0.8397672822746584
+Long WTI $1mm,Historical sim,hurricane,Barry 2019,2019-07-15,0,0,0.578515448595203
+Long WTI $1mm,Historical sim,hurricane,Hanna 2020,2020-07-27,0,0,0.13918391882093895
+Long WTI $1mm,Historical sim,hurricane,Laura 2020,2020-08-26,0,0,0.3177648163642556
+Long WTI $1mm,Historical sim,hurricane,Sally 2020,2020-09-14,0,0,0.19918321982657075
+Long WTI $1mm,Historical sim,hurricane,Delta 2020,2020-10-09,0,0,0.16107886009349098
+Long WTI $1mm,Historical sim,hurricane,Zeta 2020,2020-10-28,0,0,0.23532810082946123
+Long WTI $1mm,Historical sim,hurricane,Ida 2021,2021-08-30,0,0,0.07308221853613904
+Long WTI $1mm,Historical sim,hurricane,Nicholas 2021,2021-09-14,0,0,0.10422503658899211
+Long WTI $1mm,Historical sim,hurricane,Beryl 2024,2024-07-08,0,0,0.6097722028726251
+Long WTI $1mm,Historical sim,hurricane,Francine 2024,2024-09-11,0,0,0.8861450107681063
+Long WTI $1mm,Historical sim,winter,Winter storm Feb 2010,2010-02-09,0,0,0.2606606290337999
+Long WTI $1mm,Historical sim,winter,Winter storm Feb 2011,2011-02-01,0,0,0.2534715669039615
+Long WTI $1mm,Historical sim,winter,Winter storm Jan 2014,2014-01-06,0,0,0.7942548640113994
+Long WTI $1mm,Historical sim,winter,Winter storm Feb 2015,2015-02-16,1,1,1.0216483127434026
+Long WTI $1mm,Historical sim,winter,Freeze Mar 2017,2017-03-14,0,0,0.2658505963590715
+Long WTI $1mm,Historical sim,winter,Winter storm Jan 2018,2018-01-03,0,0,0.16127783155857417
+Long WTI $1mm,Historical sim,winter,Winter storm Mar 2018,2018-03-01,0,0,0.5118458906441496
+Long WTI $1mm,Historical sim,winter,Winter storm Feb 2021,2021-02-10,0,0,0.09477871823021594
+Long WTI $1mm,Historical sim,winter,Winter storm Dec 2022,2022-12-21,0,0,0.7077635013245793
+Long WTI $1mm,Historical sim,winter,Winter storm Feb 2023,2023-02-02,0,0,0.4440975666899777
+Long WTI $1mm,Historical sim,winter,Winter storm Jan 2024,2024-01-12,0,0,0.17448156841087453
+Long WTI $1mm,Filtered HS,hurricane,Isaac 2012,2012-08-28,0,0,0.2502373635120496
+Long WTI $1mm,Filtered HS,hurricane,Harvey 2017,2017-08-25,0,0,0.7223313131888874
+Long WTI $1mm,Filtered HS,hurricane,Nate 2017,2017-10-09,0,0,0.687168789419877
+Long WTI $1mm,Filtered HS,hurricane,Michael 2018,2018-10-09,0,0,0.8186151356871054
+Long WTI $1mm,Filtered HS,hurricane,Barry 2019,2019-07-15,0,0,0.4785799019056453
+Long WTI $1mm,Filtered HS,hurricane,Hanna 2020,2020-07-27,0,0,0.19151380997860973
+Long WTI $1mm,Filtered HS,hurricane,Laura 2020,2020-08-26,0,0,0.7389129640301731
+Long WTI $1mm,Filtered HS,hurricane,Sally 2020,2020-09-14,0,0,0.37784241742866015
+Long WTI $1mm,Filtered HS,hurricane,Delta 2020,2020-10-09,0,0,0.3171284026247839
+Long WTI $1mm,Filtered HS,hurricane,Zeta 2020,2020-10-28,0,0,0.49320688335628393
+Long WTI $1mm,Filtered HS,hurricane,Ida 2021,2021-08-30,0,0,0.21284055649629538
+Long WTI $1mm,Filtered HS,hurricane,Nicholas 2021,2021-09-14,0,0,0.33383590396665525
+Long WTI $1mm,Filtered HS,hurricane,Beryl 2024,2024-07-08,1,1,1.0147899242784382
+Long WTI $1mm,Filtered HS,hurricane,Francine 2024,2024-09-11,0,0,0.7508795663802991
+Long WTI $1mm,Filtered HS,winter,Winter storm Feb 2010,2010-02-09,0,0,0.5551976431012828
+Long WTI $1mm,Filtered HS,winter,Winter storm Feb 2011,2011-02-01,0,0,0.40273542746033336
+Long WTI $1mm,Filtered HS,winter,Winter storm Jan 2014,2014-01-06,1,1,1.359425075825637
+Long WTI $1mm,Filtered HS,winter,Winter storm Feb 2015,2015-02-16,0,0,0.44813625934402124
+Long WTI $1mm,Filtered HS,winter,Freeze Mar 2017,2017-03-14,0,0,0.3880805712746316
+Long WTI $1mm,Filtered HS,winter,Winter storm Jan 2018,2018-01-03,0,0,0.2340250438953128
+Long WTI $1mm,Filtered HS,winter,Winter storm Mar 2018,2018-03-01,0,0,0.6568809051253374
+Long WTI $1mm,Filtered HS,winter,Winter storm Feb 2021,2021-02-10,0,0,0.3504660825845755
+Long WTI $1mm,Filtered HS,winter,Winter storm Dec 2022,2022-12-21,0,0,0.7335791323740621
+Long WTI $1mm,Filtered HS,winter,Winter storm Feb 2023,2023-02-02,0,0,0.5759311299299296
+Long WTI $1mm,Filtered HS,winter,Winter storm Jan 2024,2024-01-12,0,0,0.19498191302402595
+Long WTI $1mm,GARCH-t,hurricane,Isaac 2012,2012-08-28,0,0,0.3101201613144342
+Long WTI $1mm,GARCH-t,hurricane,Harvey 2017,2017-08-25,0,0,0.7866002002999457
+Long WTI $1mm,GARCH-t,hurricane,Nate 2017,2017-10-09,0,0,0.7404543014279389
+Long WTI $1mm,GARCH-t,hurricane,Michael 2018,2018-10-09,0,0,0.9391494990506072
+Long WTI $1mm,GARCH-t,hurricane,Barry 2019,2019-07-15,0,0,0.5528702184380133
+Long WTI $1mm,GARCH-t,hurricane,Hanna 2020,2020-07-27,0,0,0.370342541148764
+Long WTI $1mm,GARCH-t,hurricane,Laura 2020,2020-08-26,1,1,1.338107131853882
+Long WTI $1mm,GARCH-t,hurricane,Sally 2020,2020-09-14,0,0,0.6743593966260506
+Long WTI $1mm,GARCH-t,hurricane,Delta 2020,2020-10-09,0,0,0.5622217391678579
+Long WTI $1mm,GARCH-t,hurricane,Zeta 2020,2020-10-28,0,0,0.8076880888810076
+Long WTI $1mm,GARCH-t,hurricane,Ida 2021,2021-08-30,0,0,0.3316892881252699
+Long WTI $1mm,GARCH-t,hurricane,Nicholas 2021,2021-09-14,0,0,0.5153442888322917
+Long WTI $1mm,GARCH-t,hurricane,Beryl 2024,2024-07-08,0,0,0.8595314566183533
+Long WTI $1mm,GARCH-t,hurricane,Francine 2024,2024-09-11,0,0,0.7122671647837412
+Long WTI $1mm,GARCH-t,winter,Winter storm Feb 2010,2010-02-09,0,0,0.43508444932769474
+Long WTI $1mm,GARCH-t,winter,Winter storm Feb 2011,2011-02-01,0,0,0.3952445776480638
+Long WTI $1mm,GARCH-t,winter,Winter storm Jan 2014,2014-01-06,1,1,1.1027844399219413
+Long WTI $1mm,GARCH-t,winter,Winter storm Feb 2015,2015-02-16,0,0,0.6123626011354728
+Long WTI $1mm,GARCH-t,winter,Freeze Mar 2017,2017-03-14,0,0,0.3748559147831626
+Long WTI $1mm,GARCH-t,winter,Winter storm Jan 2018,2018-01-03,0,0,0.24484188338484317
+Long WTI $1mm,GARCH-t,winter,Winter storm Mar 2018,2018-03-01,0,0,0.6953088864312849
+Long WTI $1mm,GARCH-t,winter,Winter storm Feb 2021,2021-02-10,0,0,0.5446532930624483
+Long WTI $1mm,GARCH-t,winter,Winter storm Dec 2022,2022-12-21,0,0,0.8932877645751844
+Long WTI $1mm,GARCH-t,winter,Winter storm Feb 2023,2023-02-02,0,0,0.7479441875685919
+Long WTI $1mm,GARCH-t,winter,Winter storm Jan 2024,2024-01-12,0,0,0.19543486131148824
+Long Henry Hub $1mm,Historical sim,hurricane,Isaac 2012,2012-08-28,0,0,0.5856459330143546
+Long Henry Hub $1mm,Historical sim,hurricane,Harvey 2017,2017-08-25,0,0,0.22399328859060333
+Long Henry Hub $1mm,Historical sim,hurricane,Nate 2017,2017-10-09,0,0,0.44648829431438064
+Long Henry Hub $1mm,Historical sim,hurricane,Michael 2018,2018-10-09,0,0,0.9646652864044183
+Long Henry Hub $1mm,Historical sim,hurricane,Barry 2019,2019-07-15,0,0,0.19367588932806298
+Long Henry Hub $1mm,Historical sim,hurricane,Hanna 2020,2020-07-27,0,0,0.41607193833856615
+Long Henry Hub $1mm,Historical sim,hurricane,Laura 2020,2020-08-26,1,1,1.9160177975528359
+Long Henry Hub $1mm,Historical sim,hurricane,Sally 2020,2020-09-14,1,1,1.5543226999537694
+Long Henry Hub $1mm,Historical sim,hurricane,Delta 2020,2020-10-09,1,1,1.590283874743927
+Long Henry Hub $1mm,Historical sim,hurricane,Zeta 2020,2020-10-28,0,0,0.53229821802935
+Long Henry Hub $1mm,Historical sim,hurricane,Ida 2021,2021-08-30,0,0,0.10256410256410257
+Long Henry Hub $1mm,Historical sim,hurricane,Nicholas 2021,2021-09-14,0,0,0.24644688644688706
+Long Henry Hub $1mm,Historical sim,hurricane,Beryl 2024,2024-07-08,0,0,0.3475260416666663
+Long Henry Hub $1mm,Historical sim,hurricane,Francine 2024,2024-09-11,0,0,0.1486742424242424
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Feb 2010,2010-02-09,0,0,0.46132208157524823
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Feb 2011,2011-02-01,0,0,0.37181182694124393
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Jan 2014,2014-01-06,0,0,0.8032128514056202
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Feb 2015,2015-02-16,0,0,0.8708441856902098
+Long Henry Hub $1mm,Historical sim,winter,Freeze Mar 2017,2017-03-14,0,0,0.6630794701986766
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Jan 2018,2018-01-03,3,3,4.210752688172047
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Mar 2018,2018-03-01,0,0,0.2819805194805183
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Feb 2021,2021-02-10,3,2,4.349283866030103
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Dec 2022,2022-12-21,1,0,1.8837296037296056
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Feb 2023,2023-02-02,0,0,0.6367626404494383
+Long Henry Hub $1mm,Historical sim,winter,Winter storm Jan 2024,2024-01-12,1,1,4.485957132298595
+Long Henry Hub $1mm,Filtered HS,hurricane,Isaac 2012,2012-08-28,0,0,0.6550623207699666
+Long Henry Hub $1mm,Filtered HS,hurricane,Harvey 2017,2017-08-25,0,0,0.3974113579683394
+Long Henry Hub $1mm,Filtered HS,hurricane,Nate 2017,2017-10-09,0,0,0.5465510998412535
+Long Henry Hub $1mm,Filtered HS,hurricane,Michael 2018,2018-10-09,1,1,1.5576563567319548
+Long Henry Hub $1mm,Filtered HS,hurricane,Barry 2019,2019-07-15,0,0,0.5846884327010019
+Long Henry Hub $1mm,Filtered HS,hurricane,Hanna 2020,2020-07-27,0,0,0.2888523091458257
+Long Henry Hub $1mm,Filtered HS,hurricane,Laura 2020,2020-08-26,1,1,1.416169098422693
+Long Henry Hub $1mm,Filtered HS,hurricane,Sally 2020,2020-09-14,0,0,0.5871986005408474
+Long Henry Hub $1mm,Filtered HS,hurricane,Delta 2020,2020-10-09,0,0,0.6011294100283752
+Long Henry Hub $1mm,Filtered HS,hurricane,Zeta 2020,2020-10-28,0,0,0.21163817581937103
+Long Henry Hub $1mm,Filtered HS,hurricane,Ida 2021,2021-08-30,0,0,0.3903547813463002
+Long Henry Hub $1mm,Filtered HS,hurricane,Nicholas 2021,2021-09-14,0,0,0.8603435345597785
+Long Henry Hub $1mm,Filtered HS,hurricane,Beryl 2024,2024-07-08,0,0,0.3514939045638409
+Long Henry Hub $1mm,Filtered HS,hurricane,Francine 2024,2024-09-11,0,0,0.2535136194541722
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Feb 2010,2010-02-09,0,0,0.48674524954098025
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Feb 2011,2011-02-01,0,0,0.5928564577610115
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Jan 2014,2014-01-06,0,0,0.8833392614843588
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Feb 2015,2015-02-16,1,1,1.2908749401625117
+Long Henry Hub $1mm,Filtered HS,winter,Freeze Mar 2017,2017-03-14,0,0,0.5609605687347922
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Jan 2018,2018-01-03,0,0,0.7184141254968631
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Mar 2018,2018-03-01,0,0,0.1500822996229657
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Feb 2021,2021-02-10,0,0,0.5636986718649758
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Dec 2022,2022-12-21,1,0,1.0687564293613245
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Feb 2023,2023-02-02,0,0,0.47816624008354436
+Long Henry Hub $1mm,Filtered HS,winter,Winter storm Jan 2024,2024-01-12,0,0,0.3558994275281514
+Long Henry Hub $1mm,GARCH-t,hurricane,Isaac 2012,2012-08-28,0,0,0.616862678048916
+Long Henry Hub $1mm,GARCH-t,hurricane,Harvey 2017,2017-08-25,0,0,0.31722667426937984
+Long Henry Hub $1mm,GARCH-t,hurricane,Nate 2017,2017-10-09,0,0,0.5388099218086917
+Long Henry Hub $1mm,GARCH-t,hurricane,Michael 2018,2018-10-09,1,0,1.0180708228125945
+Long Henry Hub $1mm,GARCH-t,hurricane,Barry 2019,2019-07-15,0,0,0.5344255248304364
+Long Henry Hub $1mm,GARCH-t,hurricane,Hanna 2020,2020-07-27,0,0,0.3905325514947931
+Long Henry Hub $1mm,GARCH-t,hurricane,Laura 2020,2020-08-26,1,1,1.7394298321156214
+Long Henry Hub $1mm,GARCH-t,hurricane,Sally 2020,2020-09-14,0,0,0.7786907635326373
+Long Henry Hub $1mm,GARCH-t,hurricane,Delta 2020,2020-10-09,0,0,0.7202330497170498
+Long Henry Hub $1mm,GARCH-t,hurricane,Zeta 2020,2020-10-28,0,0,0.5442442851354123
+Long Henry Hub $1mm,GARCH-t,hurricane,Ida 2021,2021-08-30,0,0,0.23578543969560883
+Long Henry Hub $1mm,GARCH-t,hurricane,Nicholas 2021,2021-09-14,0,0,0.5816681970934481
+Long Henry Hub $1mm,GARCH-t,hurricane,Beryl 2024,2024-07-08,0,0,0.44899151080310806
+Long Henry Hub $1mm,GARCH-t,hurricane,Francine 2024,2024-09-11,0,0,0.28868192854525687
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Feb 2010,2010-02-09,0,0,0.5956610142019992
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Feb 2011,2011-02-01,0,0,0.5145094952578901
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Jan 2014,2014-01-06,0,0,0.7304175666291836
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Feb 2015,2015-02-16,1,1,1.533538304450366
+Long Henry Hub $1mm,GARCH-t,winter,Freeze Mar 2017,2017-03-14,0,0,0.5568198312657898
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Jan 2018,2018-01-03,0,0,0.6635202053654816
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Mar 2018,2018-03-01,0,0,0.4384025898114632
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Feb 2021,2021-02-10,0,0,0.41574705561252495
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Dec 2022,2022-12-21,1,0,1.028632284606737
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Feb 2023,2023-02-02,0,0,0.7249332361717745
+Long Henry Hub $1mm,GARCH-t,winter,Winter storm Jan 2024,2024-01-12,0,0,0.22179008435906944
